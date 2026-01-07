@@ -1,4 +1,4 @@
-# Perceptron From Scratch – Iris Dataset
+# Perceptron Scratch Implementation
 
 ## 📌 Project Overview
 To deepen my understanding of how neural networks make predictions, I implemented a **Perceptron classifier from scratch**.
